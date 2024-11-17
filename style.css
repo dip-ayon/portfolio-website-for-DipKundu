@@ -311,8 +311,8 @@ a{
     font-size: 2rem;
 }
 #about .col-left .about-img{
-    height: 95%;
-    width: 95%;
+    height: 91%;
+    width: 99%;
     position: relative; 
     border: 10px solid white;
 }
@@ -613,6 +613,5 @@ hl.section-title {
 
     text-align: left; 
     padding-left: 20px;
-}
+}}
 /* End contact */
-
